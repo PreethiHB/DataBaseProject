@@ -11,4 +11,4 @@ END
 
 GO
 
-exec dbo.DeleteStudentDetails 3
+exec dbo.DeleteStudentDetails 2

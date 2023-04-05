@@ -7,5 +7,5 @@ CREATE TABLE STUDENTS (
     DOB DATETIME,
     DOJ DATETIME,
     Gender varchar(10),
-	City varchar(25)  
+	City varchar(35)  
 );
